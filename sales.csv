@@ -1,0 +1,8 @@
+ProductID,ProductName,Category,Region,UnitsSold,UnitPrice
+101,Laptop,Electronics,West,10,50000
+102,Laptop,Electronics,North,5,52000
+103,Chair,Furniture,West,7,1500
+104,Table,Furniture,East,3,3000
+105,Mobile,Electronics,South,null,20000
+106,Sofa,Furniture,South,2,null
+107,Laptop,Electronics,West,4,51000
